@@ -31,8 +31,6 @@ const Home = () => {
                     <div className="col-md-6">
                         <div className="banner_img">
                             <img
-                                src="https://res.cloudinary.com/mehedi08h/image/upload/v1649142300/Website_Creator-amico_fdiztz.svg"
-                                alt=""
                             />
                         </div>
                     </div>

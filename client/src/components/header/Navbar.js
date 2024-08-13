@@ -13,7 +13,6 @@ const Navbar = () => {
         <nav className="app__navbar">
             <div className="app__navbar-logo">
                 <img
-                    src="https://res.cloudinary.com/mehedi08h/image/upload/v1647280872/react-final/auth/logo_wyrs86.png"
                     alt="app__logo"
                 />
             </div>

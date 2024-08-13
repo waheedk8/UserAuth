@@ -19,7 +19,6 @@ const Register = ({ history }) => {
 
     const [avatar, setAvatar] = useState("");
     const [avatarPreview, setAvatarPreview] = useState(
-        "https://res.cloudinary.com/mehedi08h/image/upload/v1647280872/react-final/auth/logo_wyrs86.png"
     );
 
     const alert = useAlert();
